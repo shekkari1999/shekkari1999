@@ -45,7 +45,7 @@ My research interests lie in **Reinforcement Learning (RL), building true person
 > - 🔥 Built an **automated AI support system** with **LLMs & RAG**  
 > - 📊 Optimized query retrieval using **FAISS & OpenAI embeddings**  
 
-> **🍽️ [Multimodal RAG for Personalized Food Recommendations](https://github.com/shekkari1999/restaurent-app)**  
+> **🍽️ [Multimodal RAG for Personalized Food Recommendations](https://github.com/shekkari1999/Multimodal-app)**  
 > - 📸 Integrated **text + image data** using **AWS Bedrock & FAISS**  
 
 ---
