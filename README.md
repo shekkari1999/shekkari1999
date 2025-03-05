@@ -41,7 +41,7 @@ My research interests lie in **Reinforcement Learning (RL), building true person
 > - 🚀 Used **OpenAI embeddings & cosine similarity** to assess resume-job fit  
 > - 🏆 Deployed using **Azure ML**  
 
-> **📞 [LLM-Driven Customer Support System](https://github.com/yourprojectlink)**  
+> **📞 [LLM-Driven Customer Support System](https://github.com/yourprojectlink](https://github.com/shekkari1999/customer-support)**  
 > - 🔥 Built an **automated AI support system** with **LLMs & RAG**  
 > - 📊 Optimized query retrieval using **FAISS & OpenAI embeddings**  
 
