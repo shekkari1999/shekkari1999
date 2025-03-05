@@ -37,7 +37,7 @@ My research interests lie in **Reinforcement Learning (RL), building true person
 
 ## 🚀 **Featured Projects**  
 
-> **🤖 [AI-Powered Resume Analyzer](https://github.com/yourprojectlink)**  
+> **🤖 [AI-Powered Resume Analyzer](https://github.com/shekkari1999/resume-analyzer)**  
 > - 🚀 Used **OpenAI embeddings & cosine similarity** to assess resume-job fit  
 > - 🏆 Deployed using **Azure ML**  
 
