@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 **About Me**  
+##  **About Me**  
 Master’s student in **Applied Machine Learning** with a strong foundation in **AI research and model development**. While working as a **Software Developer**, my primary focus has always been on **AI—fine-tuning transformers, optimizing LLMs, and deploying scalable ML systems**.  
 
 My research interests lie in **Reinforcement Learning (RL), building true personal AI assistants with memory and adaptation, and advancing Explainable AI (XAI) for transparent decision-making**.  
@@ -38,15 +38,15 @@ My research interests lie in **Reinforcement Learning (RL), building true person
 ## 🚀 **Featured Projects**  
 
 > **🤖 [AI-Powered Resume Analyzer](https://github.com/shekkari1999/resume-analyzer)**  
-> - 🚀 Used **OpenAI embeddings & cosine similarity** to assess resume-job fit  
-> - 🏆 Deployed using **Azure ML**  
+> -  Used **OpenAI embeddings & cosine similarity** to assess resume-job fit  
+> -  Deployed using **Azure ML**  
 
 > **📞 [LLM-Driven Customer Support System](https://github.com/shekkari1999/customer-support)**  
-> - 🔥 Built an **automated AI support system** with **LLMs & RAG**  
-> - 📊 Optimized query retrieval using **FAISS & OpenAI embeddings**  
+> -  Built an **automated AI support system** with **LLMs & RAG**  
+> -  Optimized query retrieval using **FAISS & OpenAI embeddings**  
 
 > **🍽️ [Multimodal RAG for Personalized Food Recommendations](https://github.com/shekkari1999/Multimodal-app)**  
-> - 📸 Integrated **text + image data** using **AWS Bedrock & FAISS**  
+> -  Integrated **text + image data** using **AWS Bedrock & FAISS**  
 
 ---
 
