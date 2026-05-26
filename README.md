@@ -23,4 +23,4 @@ Right now that means **LLM inference** — building serving systems from scratch
 
 **Writing** — [shekkari1999.github.io](https://shekkari1999.github.io) · GPU fundamentals, LLM inference, training from scratch
 
-**Contact** — [akhil.masters21@gmail.com](mailto:akhil.masters21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akhilshekkari/)
+**Contact** — [shekkari.akhil@gmail.com](mailto:shekkari.akhil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akhilshekkari/)
