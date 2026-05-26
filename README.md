@@ -15,9 +15,7 @@ Right now that means **LLM inference** — building serving systems from scratch
 **Active projects**
 
 - [`mini-Inference-engine-from-scratch`](https://github.com/shekkari1999/mini-Inference-engine-from-scratch) — Triton-fused FlashAttention, paged KV-cache, speculative decoding, dynamic batching
-- [`multi-agent-training-grpo`](https://github.com/shekkari1999/multi-agent-training-grpo) — GRPO from raw PyTorch; training LLMs to use tools via reinforcement learning
-- [`qwen-fc-sft`](https://github.com/shekkari1999/qwen-fc-sft) — SFT pipeline for function calling: chat stage → tool-use stage with QLoRA
-- [`DiffusionSR`](https://github.com/shekkari1999/DiffusionSR) — ResShift super-resolution from scratch: U-Net + Swin Transformer, 15-step diffusion
+- [`llm-serving-dynamo`](https://github.com/shekkari1999/llm-serving-dynamo) — disaggregated prefill/decode and KV-aware routing with NVIDIA Dynamo; benchmarked against single-node vLLM
 
 ---
 
