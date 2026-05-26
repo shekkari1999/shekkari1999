@@ -4,11 +4,9 @@ AI Engineer · MS Applied Machine Learning, University of Maryland · 2026
 
 ---
 
-I focus on two things: making LLMs go faster, and making them smarter.
+I am an AI Engineer and an MS student in Applied Machine Learning at the University of Maryland, College Park. Before UMD, I worked as an AI Engineer at Atrium on a Pfizer R&D project, where I co-authored a **peer-reviewed publication** in *Clinical Trials* (SAGE), and spent three years as a Machine Learning Engineer at Tezo in India.
 
-Right now that means **LLM inference** — building serving systems from scratch (Triton kernels, paged KV-cache, speculative decoding, NVIDIA Dynamo) — and **post-training** — fine-tuning models for tool use and training them with reinforcement learning to become more reliable agents.
-
-3+ years building production ML systems. Co-authored a peer-reviewed publication in *Clinical Trials* (SAGE) on generative AI at Pfizer R&D.
+My work focuses on **LLM inference**. I build serving systems from scratch: custom Triton kernels, paged KV-cache, speculative decoding, and distributed orchestration with **NVIDIA Dynamo**.
 
 ---
 
