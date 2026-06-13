@@ -6,14 +6,17 @@ AI Engineer · MS Applied Machine Learning, University of Maryland · 2026
 
 I am an AI Engineer and an MS student in Applied Machine Learning at the University of Maryland, College Park. Before UMD, I worked as an AI Engineer at Atrium on a Pfizer R&D project, where I co-authored a **peer-reviewed publication** in *Clinical Trials* (SAGE), and spent three years as a Machine Learning Engineer at Tezo in India.
 
-My work focuses on **LLM inference**. I build serving systems from scratch: custom Triton kernels, paged KV-cache, speculative decoding, and distributed orchestration with **NVIDIA Dynamo**.
+My work focuses on **LLM inference and post-training**. I build serving systems and training pipelines from scratch: custom Triton kernels, paged KV-cache, speculative decoding, and distributed orchestration with **NVIDIA Dynamo**.
 
 ---
 
 **Active projects**
 
-- [`mini-Inference-engine-from-scratch`](https://github.com/shekkari1999/mini-Inference-engine-from-scratch) — Triton-fused FlashAttention, paged KV-cache, speculative decoding, dynamic batching
-- [`llm-serving-dynamo`](https://github.com/shekkari1999/llm-serving-dynamo) — disaggregated prefill/decode and KV-aware routing with NVIDIA Dynamo; benchmarked against single-node vLLM
+- [`minivllm`](https://github.com/shekkari1999/minivllm) — paged KV cache, continuous batching, and FCFS scheduling for Qwen2.5-7B; 2.6× throughput and 3.5× capacity on H100
+- [`triton-kernels`](https://github.com/shekkari1999/triton-kernels) — Triton kernels from vector add through FlashAttention-2; 16.9× speedup at 8K context on H100
+- [`coding-agent`](https://github.com/shekkari1999/coding-agent) — CLI coding agent with plan/act loop and self-hosted vLLM inference
+- [`reasoning`](https://github.com/shekkari1999/reasoning) — DeepSeek-R1-style post-training for Qwen2.5-3B: SFT + Dr.GRPO on GSM8K and MATH500
+- [`Agents`](https://github.com/shekkari1999/Agents) — agent framework with tools, MCP integration, and multi-step reasoning
 
 ---
 
@@ -26,4 +29,4 @@ My work focuses on **LLM inference**. I build serving systems from scratch: cust
 - [Understanding Quantization in Deep Learning](https://gist.github.com/shekkari1999/70e8213716c1898b80defdd9c14f6237) — INT4/INT8, QAT, weight vs activation quantization
 - [ML Training Optimization: FLOPs, Profiling, and Learning Strategies](https://gist.github.com/shekkari1999/8d791fa7d1c098d43285aba4ffa07118) — Chinchilla, I/O bottlenecks, gradient accumulation
 
-**Contact** — [shekkari.akhil@gmail.com](mailto:shekkari.akhil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akhilshekkari/)
+**Contact** — [shekkari.akhil@gmail.com](mailto:shekkari.akhil@gmail.com) · [Website](https://shekkari1999.github.io) · [LinkedIn](https://www.linkedin.com/in/akhilshekkari/)
